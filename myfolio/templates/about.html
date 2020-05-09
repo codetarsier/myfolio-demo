@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <div class="jumbotron" style="margin-top:80px;">
+    <h1 class="display-3">About Us</h1>
+    <p class="lead">We provide end-to-end software services.</p>
+    <hr class="my-4">
+    <p class="lead">
+        <a class="btn btn-primary btn-lg" href="#" role="button">Call Us on +91 99-8888888888</a>
+    </p>
+    {% if request.user.is_authenticated %}
+        <a class="btn btn-success btn-lg" href="#" role="button">Congratulations you got coupon worth on 5000/-</a>
+    {% endif %}
+
+    </div>
+</div>
+{% endblock content %}
