@@ -17,6 +17,8 @@ https://bootswatch.com/
 Bootswatch theme
 https://bootswatch.com/4/sketchy/bootstrap.min.css
 
+Documents
 https://docs.google.com/document/d/1NCaOCUE0ZeAdbh_PPoIg1cvNNPwt37nyfaI3CPWSyVk/edit?usp=sharing
 
+Presentation
 https://docs.google.com/presentation/d/13G6JCm9Io2uznB_4_OFWSlOARpuPTNlze2xwjfpFrp0/edit?usp=sharing
